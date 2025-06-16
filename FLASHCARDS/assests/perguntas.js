@@ -1,35 +1,35 @@
 criaCartao(
     categoria,
     pergunta,
-    resposta
+    
 )
 
 criaCartao(
-    categoria,
+    Biologia,
     pergunta,
     resposta
 )
 
 criaCartao(
-    categoria,
+    Biologia,
     pergunta,
     resposta
 )
 
 criaCartao(
-    categoria,
+    Biologia,
     pergunta,
     resposta
 )
 
 criaCartao(
-    categoria,
+    Biologia,
     pergunta,
     resposta
 )
 
 criaCartao(
-    categoria,
+    Biologia,
     pergunta,
     resposta
 )
